@@ -43,3 +43,7 @@ tests/_output/*
 tests/_support/_generated/*
 tests/cache/*
 tests/error.log
+/.vs
+/tmp/Grav-5a477de41266c
+/.vs
+/tmp/Grav-5a477de41266c
